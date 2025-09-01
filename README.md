@@ -3,7 +3,7 @@
 ![HR Dashboard](HRdashboard.PNG)
 
 [![Made with Tableau](https://img.shields.io/badge/Made%20with-Tableau-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/)
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/hr-analytics-dashboard?style=for-the-badge)](https://github.com/yourusername/hr-analytics-dashboard)
+[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/hr-analytics-dashboard?style=for-the-badge)](https://github.com/shanmukhsaibada/hr-analytics-dashboard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 ---
