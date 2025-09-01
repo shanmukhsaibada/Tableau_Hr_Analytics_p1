@@ -46,7 +46,7 @@ This project is an **HR Analytics Dashboard** built using **Tableau** to monitor
 ## ▶ How to View or Run the Dashboard
 
 ##View the interactive dashboard via **Tableau Public**:  
-**👉 [View Dashboard on Tableau Public]([https://public.tableau.com/](https://public.tableau.com/app/profile/shanmukha.sai.bada/viz/HRANALYTICSDASHBOARD_17565075358660/HrAnalyticsDashboard))**  
+**👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/shanmukha.sai.bada/viz/HRANALYTICSDASHBOARD_17565075358660/HrAnalyticsDashboard)**  
 
 
 ## 🛠 Data Source
